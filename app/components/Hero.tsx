@@ -23,7 +23,7 @@ export default function Hero() {
         
         {/* Glassmorphic Button */}
         <a
-          href="https://justbegreen.com"
+          href="https://justbegreenmedia.com"
           target="_blank"
           rel="noopener noreferrer"
           className="px-8 py-4 bg-green-500/20 backdrop-blur-md border border-green-400/30 hover:bg-green-500/30 hover:border-green-400/50 transition-all duration-300 text-lg font-semibold"
